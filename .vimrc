@@ -83,4 +83,7 @@ let g:indentguides_tabchar = '|'
 
 let g:indentguides_toggleListMode = 0
 
+set cursorcolumn
+set cursorline
+
 "set wrap linebreak nolist
