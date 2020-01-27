@@ -83,4 +83,4 @@ let g:indentguides_tabchar = '|'
 
 let g:indentguides_toggleListMode = 0
 
-set wrap linebreak nolist
+"set wrap linebreak nolist
